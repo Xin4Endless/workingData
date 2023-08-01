@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T10:08:51.349Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bxklamHGT_ttLofB_sOS" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T10:27:29.197Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4vJqcwbVEehGXZ8LBU0u" version="21.6.6" type="github">
   <diagram name="第 1 页" id="L3xyPryuT6cQ3fmTiVPL">
-    <mxGraphModel dx="2740" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -637,10 +637,10 @@
           <mxGeometry x="2210" y="180" width="270" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-144" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;fontFamily=Helvetica;fontSize=12;fillColor=#ffff88;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="590" width="670" height="160" as="geometry" />
+          <mxGeometry x="1596" y="620" width="670" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-145" value="备注" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="600" width="95" height="30" as="geometry" />
+          <mxGeometry x="1616" y="635" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-146" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1230" y="390" width="60" height="30" as="geometry" />
@@ -652,13 +652,22 @@
           <mxGeometry x="1230" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-149" value="1、审核过程中可做退回操作，街道（区县）所属的环节内可逐级可跨环节（biz_family_backinfo）&lt;br&gt;2、审核过程中可删除操作，受理之前街道删除。受理之后区县删除（biz_family_deletelog&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=default;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="640" width="620" height="80" as="geometry" />
+          <mxGeometry x="1616" y="675" width="620" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-150" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="2900" y="170" width="430" height="360" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-151" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="2900" y="550" width="430" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-154" value="基础家庭" style="text;html=1;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-155" value="资格家庭" style="text;html=1;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="565" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-156" value="base_family_info 家庭基本信息&lt;br&gt;base_family_subsidy 基础资格信息&lt;br&gt;base_family_member 成员信息&lt;br&gt;base_family_member_relation&amp;nbsp;成员关系表&lt;br&gt;base_family_personinfo 成员基础信息&lt;br&gt;base_family_memberaddress 成员关系表&lt;br&gt;base_family_member_propert 成员资产信息&lt;br&gt;base_family_earnings_proof 成员三证信息&lt;br&gt;base_family_housing_proof 家庭住房证明表&lt;br&gt;base_family_income 成员收入信息&lt;br&gt;base_family_special_person 成员特殊证件信息&lt;br&gt;Base_Family_Membercars 成员车辆信息（精简材料家庭同步）base_family_member_income 成员收入信息（精简材料家庭同步）&lt;br&gt;base_family_illness 成员大病信息（精简材料家庭同步）&lt;br&gt;base_family_disability 成员残疾信息（精简材料家庭同步）&lt;br&gt;base_family_specialinfo 成员特殊情况信息（精简材料家庭同步）" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="2924" y="217" width="396" height="283" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
