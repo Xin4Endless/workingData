@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T10:58:35.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6J_7a6-ZifYydUapYZO1" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T11:05:50.951Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ibT2aHve9ByRc67bMMAC" version="21.6.6" type="github">
   <diagram name="第 1 页" id="L3xyPryuT6cQ3fmTiVPL">
-    <mxGraphModel dx="3758" dy="2880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2839" dy="2318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,13 +11,13 @@
           <mxGeometry x="2500" y="-340" width="830" height="770" as="geometry" />
         </mxCell>
         <mxCell id="yCfuCtmDYK_FV-YPYzmW-62" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="580" y="-340" width="780" height="710" as="geometry" />
+          <mxGeometry x="580" y="-340" width="780" height="770" as="geometry" />
         </mxCell>
         <mxCell id="yCfuCtmDYK_FV-YPYzmW-61" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="-340" width="1610" height="390" as="geometry" />
         </mxCell>
         <mxCell id="yCfuCtmDYK_FV-YPYzmW-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;opacity=80;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=none;align=left;fontSize=16;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="-340" width="1068" height="710" as="geometry" />
+          <mxGeometry x="-490" y="-340" width="1070" height="770" as="geometry" />
         </mxCell>
         <mxCell id="1xCJAlItFcg6lwi7AEPt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="yCfuCtmDYK_FV-YPYzmW-40" target="1xCJAlItFcg6lwi7AEPt-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -639,12 +639,6 @@
         <mxCell id="vz7TybBeLEqPIu0Ode82-142" value="biz_family_operator_apporve 备案审核意见" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="2190" y="-320" width="270" height="25.5" as="geometry" />
         </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-144" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;fontFamily=Helvetica;fontSize=12;fillColor=#ffff88;" vertex="1" parent="1">
-          <mxGeometry x="1576" y="120" width="670" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-145" value="审核过程备注" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1596" y="135" width="144" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-146" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1210" y="-110" width="60" height="30" as="geometry" />
         </mxCell>
@@ -653,9 +647,6 @@
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-148" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1210" y="-110" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-149" value="1、审核过程中可做退回操作，街道（区县）所属的环节内可逐级可跨环节（biz_family_backinfo）&#xa;2、审核过程中可删除操作，受理之前街道删除。受理之后区县删除（biz_family_deletelog）&#xa;3、全局日志表，记录操作记录信息（biz_family_itemslog）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1596" y="175" width="620" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-150" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;dashed=1;dashPattern=8 8;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="2880" y="-330" width="430" height="370" as="geometry" />
@@ -683,6 +674,27 @@
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-164" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffcccc;" vertex="1" parent="1">
           <mxGeometry x="670" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-170" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#36393d;fontFamily=Helvetica;fontSize=12;fillColor=#cdeb8b;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="50" width="1140" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-171" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1367" y="60" width="560" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-172" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="60" width="560" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-145" value="审核过程备注" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="70" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-167" value="接口备注" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1943" y="70" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-168" value="1、公安接口（通过内部共享系统交互、以文件方式经过经信委交互）&lt;br style=&quot;font-size: 14px;&quot;&gt;2、地税接口（通过数据库方式交互、各自提供前置数据库）&lt;br style=&quot;font-size: 14px;&quot;&gt;3、婚姻民政接口（通过数据库方式交互、经过经信委交互）&lt;br style=&quot;font-size: 14px;&quot;&gt;4、公积金接口（通过数据库方式交互、经过经信委交互）&lt;br style=&quot;font-size: 14px;&quot;&gt;5、殡葬、社救接口（通过数据库方式交互、经过经信委交互）&lt;br style=&quot;font-size: 14px;&quot;&gt;6、核对报告接口（通过数据库方式交互、各自提供数据库、文件服务器）&lt;br style=&quot;font-size: 14px;&quot;&gt;7、房产接口（通过数据库方式交互）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1945" y="100" width="535" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-149" value="1、审核过程中可做退回操作，街道（区县）所属的环节内可逐级可跨环节（biz_family_backinfo）&#xa;2、审核过程中可删除操作，受理之前街道删除。受理之后区县删除（biz_family_deletelog）&#xa;3、全局日志表，记录操作记录信息（biz_family_itemslog）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="100" width="540" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
