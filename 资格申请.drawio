@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T09:11:25.314Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="896LDRDNSliuOTI0_xXl" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T09:43:30.797Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="5gkFUemdG1ARTkaLf0xK" version="21.6.6" type="github">
   <diagram name="第 1 页" id="L3xyPryuT6cQ3fmTiVPL">
-    <mxGraphModel dx="1995" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2740" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="-460" y="160" width="1058" height="710" as="geometry" />
         </mxCell>
         <mxCell id="1xCJAlItFcg6lwi7AEPt-1" value="资格申请数据流" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="50" width="190" height="40" as="geometry" />
+          <mxGeometry x="-460" y="50" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1xCJAlItFcg6lwi7AEPt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="yCfuCtmDYK_FV-YPYzmW-40" target="1xCJAlItFcg6lwi7AEPt-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -27,7 +27,7 @@
             <mxPoint x="-17" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-2" target="vz7TybBeLEqPIu0Ode82-2">
+        <mxCell id="vz7TybBeLEqPIu0Ode82-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF0000;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-2" target="vz7TybBeLEqPIu0Ode82-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1xCJAlItFcg6lwi7AEPt-2" value="资格申请" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -36,7 +36,7 @@
         <mxCell id="1xCJAlItFcg6lwi7AEPt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="1xCJAlItFcg6lwi7AEPt-3" target="1xCJAlItFcg6lwi7AEPt-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-3" target="vz7TybBeLEqPIu0Ode82-4">
+        <mxCell id="vz7TybBeLEqPIu0Ode82-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF0000;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-3" target="vz7TybBeLEqPIu0Ode82-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1xCJAlItFcg6lwi7AEPt-3" value="填写申请表单" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=20;" parent="1" vertex="1">
@@ -45,13 +45,10 @@
         <mxCell id="1xCJAlItFcg6lwi7AEPt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="1xCJAlItFcg6lwi7AEPt-5" target="1xCJAlItFcg6lwi7AEPt-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-5" target="vz7TybBeLEqPIu0Ode82-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1xCJAlItFcg6lwi7AEPt-5" value="提交" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="223" y="350" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;dashed=1;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-8" target="vz7TybBeLEqPIu0Ode82-101">
+        <mxCell id="vz7TybBeLEqPIu0Ode82-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-8" target="vz7TybBeLEqPIu0Ode82-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="306" />
@@ -73,6 +70,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-10" target="vz7TybBeLEqPIu0Ode82-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1xCJAlItFcg6lwi7AEPt-10" value="判断核对报告&lt;br&gt;是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="690.01" y="320" width="150" height="90" as="geometry" />
         </mxCell>
@@ -91,7 +91,7 @@
         </mxCell>
         <mxCell id="yCfuCtmDYK_FV-YPYzmW-34" value="公租补贴资格" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Comic Sans MS;" parent="yCfuCtmDYK_FV-YPYzmW-25" vertex="1" connectable="0">
           <mxGeometry x="0.009" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-62" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1xCJAlItFcg6lwi7AEPt-12" value="受理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -105,6 +105,13 @@
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-19" target="vz7TybBeLEqPIu0Ode82-37">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF0000;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-19" target="vz7TybBeLEqPIu0Ode82-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="209" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1xCJAlItFcg6lwi7AEPt-19" value="一次公示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1070" y="350" width="100" height="30" as="geometry" />
@@ -132,11 +139,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF0000;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-20" target="vz7TybBeLEqPIu0Ode82-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1xCJAlItFcg6lwi7AEPt-20" value="街乡初审" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1210" y="350" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-21" target="vz7TybBeLEqPIu0Ode82-48">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.186;entryY=1.066;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF0000;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-21" target="vz7TybBeLEqPIu0Ode82-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="310" />
+              <mxPoint x="2012" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1xCJAlItFcg6lwi7AEPt-21" value="街道批次上报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1350" y="350" width="160" height="30" as="geometry" />
@@ -146,6 +164,21 @@
             <Array as="points">
               <mxPoint x="1806" y="420" />
               <mxPoint x="1843" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-23" target="vz7TybBeLEqPIu0Ode82-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1760" y="209" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.186;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF0000;" edge="1" parent="1" source="1xCJAlItFcg6lwi7AEPt-23" target="vz7TybBeLEqPIu0Ode82-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1781" y="310" />
+              <mxPoint x="2012" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -213,11 +246,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF0000;" edge="1" parent="1" source="yCfuCtmDYK_FV-YPYzmW-26" target="vz7TybBeLEqPIu0Ode82-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yCfuCtmDYK_FV-YPYzmW-26" value="区县复审" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1881" y="350" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="yCfuCtmDYK_FV-YPYzmW-28" target="vz7TybBeLEqPIu0Ode82-66">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.379;entryY=1.052;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF0000;" edge="1" parent="1" source="yCfuCtmDYK_FV-YPYzmW-28" target="vz7TybBeLEqPIu0Ode82-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2066" y="330" />
+              <mxPoint x="2066" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yCfuCtmDYK_FV-YPYzmW-28" value="区县批次上报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="2041" y="350" width="150" height="30" as="geometry" />
@@ -263,14 +307,17 @@
         <mxCell id="yCfuCtmDYK_FV-YPYzmW-64" value="审核过程" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="920" y="170" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-2" value="biz_family_info 家庭基本信息&lt;br&gt;biz_family_menu_config 菜单信息&lt;br&gt;biz_family_subsidy 家庭资格表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="vz7TybBeLEqPIu0Ode82-2" value="biz_family_info 家庭基本信息&lt;br&gt;biz_family_menu_config 菜单信息&lt;br&gt;biz_family_subsidy 家庭资格表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-457" y="475" width="200" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-4" value="biz_family_member 成员信息表&lt;br&gt;biz_family_member_income 成员收入biz_family_houseinfo 家庭房屋信息&lt;br&gt;biz_family_member_propert 成员资产信息&lt;br&gt;biz_family_member_cars 成员车辆信息&lt;br&gt;biz_family_member_company 成员投资信息&lt;br&gt;biz_family_disability 成员残疾信息&lt;br&gt;biz_family_illness 成员大病信息&lt;br&gt;biz_family_specialinfo 成员特殊情况&lt;br&gt;biz_family_earnings_proof 成员三证信息&lt;br&gt;biz_family_ls_option 家庭核定信息" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="vz7TybBeLEqPIu0Ode82-4" value="biz_family_member 成员信息表&lt;br&gt;biz_family_member_income 成员收入biz_family_houseinfo 家庭房屋信息&lt;br&gt;biz_family_member_propert 成员资产信息&lt;br&gt;biz_family_member_cars 成员车辆信息&lt;br&gt;biz_family_member_company 成员投资信息&lt;br&gt;biz_family_disability 成员残疾信息&lt;br&gt;biz_family_illness 成员大病信息&lt;br&gt;biz_family_specialinfo 成员特殊情况&lt;br&gt;biz_family_earnings_proof 成员三证信息&lt;br&gt;biz_family_ls_option 家庭核定信息" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-117" y="450" width="270" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-6" value="工作流相关表单" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="203" y="452.5" width="120" height="22.5" as="geometry" />
+        <mxCell id="vz7TybBeLEqPIu0Ode82-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF0000;dashed=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="vz7TybBeLEqPIu0Ode82-6" target="1xCJAlItFcg6lwi7AEPt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-6" value="工作流相关表单" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="203" y="410" width="120" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="vz7TybBeLEqPIu0Ode82-37" target="1xCJAlItFcg6lwi7AEPt-20">
           <mxGeometry relative="1" as="geometry" />
@@ -402,7 +449,14 @@
         <mxCell id="vz7TybBeLEqPIu0Ode82-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="vz7TybBeLEqPIu0Ode82-66" target="vz7TybBeLEqPIu0Ode82-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-66" value="区县批次接收" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="vz7TybBeLEqPIu0Ode82-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF0000;" edge="1" parent="1" source="vz7TybBeLEqPIu0Ode82-66" target="vz7TybBeLEqPIu0Ode82-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2340" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-66" value="市级批次接收" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="2240" y="350" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.579;entryY=1.086;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
@@ -498,13 +552,16 @@
         <mxCell id="vz7TybBeLEqPIu0Ode82-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="vz7TybBeLEqPIu0Ode82-96" target="1xCJAlItFcg6lwi7AEPt-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.548;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" edge="1" parent="1" source="vz7TybBeLEqPIu0Ode82-96" target="vz7TybBeLEqPIu0Ode82-112">
+        <mxCell id="vz7TybBeLEqPIu0Ode82-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.548;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF0000;" edge="1" parent="1" source="vz7TybBeLEqPIu0Ode82-96" target="vz7TybBeLEqPIu0Ode82-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="vz7TybBeLEqPIu0Ode82-96" target="vz7TybBeLEqPIu0Ode82-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-96" value="定时器回写接口数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="520" y="340" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vz7TybBeLEqPIu0Ode82-101" value="biz_family_send_memberinfo 接口待发送表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="vz7TybBeLEqPIu0Ode82-101" value="biz_family_send_memberinfo 接口待发送表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="173" y="240" width="250" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-106" value="数据回写" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
@@ -538,13 +595,28 @@
           <mxGeometry x="1981" y="435" width="75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-112" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;fontFamily=Helvetica;fontSize=12;fillColor=#ffff88;" vertex="1" parent="1">
-          <mxGeometry x="310" width="410" height="160" as="geometry" />
+          <mxGeometry x="310" width="420" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-115" value="接口相关" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="323" y="10" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-116" value="公安接口（通过内部共享系统交互、以文件方式经过经信委交互）&lt;br&gt;地税接口（通过数据库方式交互、各自提供前置数据库）&lt;br&gt;婚姻民政接口（通过数据库方式交互、经过经信委交互）&lt;br&gt;公积金接口（通过数据库方式交互、经过经信委交互）&lt;br&gt;殡葬、社救接口（通过数据库方式交互、经过经信委交互）&lt;br&gt;核对报告接口（通过数据库方式交互、各自提供数据库、文件服务器）&lt;br&gt;房产接口（通过数据库方式交互）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="400" height="110" as="geometry" />
+          <mxGeometry x="323" y="40" width="400" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-117" value="interface_police 公安接口数据（CVS解析后）&lt;br&gt;ds_result 地税反馈数据&lt;br&gt;interface_civil 民政婚姻反馈数据&lt;br&gt;interface_gjj 公积金反馈数据&lt;br&gt;interface_civil_checkcenter 殡葬、社球接口反馈数据&lt;br&gt;interface_checkcenter_report&amp;nbsp; 核对报告接口反馈数据&lt;br&gt;t_bzf_check_family_member_room 房产交易记录&lt;br&gt;&lt;br&gt;biz_family_result_certificatio 公安比对结果&lt;br&gt;biz_family_result_checkcenter&amp;nbsp;&amp;nbsp;殡葬、社球接口比对结果&lt;br&gt;biz_family_result_marriage 民政婚姻比对结果&lt;br&gt;biz_family_result_memberhouse 房产比对结果&lt;br&gt;biz_family_result_publicfund 公积金比对结果&lt;br&gt;biz_family_result_taxinfo 地税比对结果" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-119" value="biz_family_checkcenter_info 核对报告审批&lt;br&gt;biz_family_checkcenter_opinion 核对报告审批意见" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="616.02" y="217" width="280" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-121" value="biz_family_datalockinfo 锁定信息&lt;br&gt;biz_family_datalockdetail 锁定明细" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="767.5" width="280" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-122" value="biz_family_publicity 一、二次公示表&lt;br&gt;biz_family_approveinfo 初审、复审结果&lt;br&gt;biz_family_approve_list 初审、复审明细" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="177.5" width="280" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-128" value="Biz_Family_Batchinfo 批次信息表&lt;br&gt;Biz_Family_Batch_Ref 批次家庭关系表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="200" width="280" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
