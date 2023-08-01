@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T08:13:34.400Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MW2cncKiRQQwicbXnQvq" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T08:44:22.704Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IUpg7ieZYw0wSm6l0fZQ" version="21.6.6" type="github">
   <diagram name="第 1 页" id="L3xyPryuT6cQ3fmTiVPL">
-    <mxGraphModel dx="2362" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4630" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vz7TybBeLEqPIu0Ode82-105" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#23445d;fontFamily=Helvetica;fontSize=12;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="161" width="310" height="379" as="geometry" />
+        </mxCell>
         <mxCell id="yCfuCtmDYK_FV-YPYzmW-62" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="600" y="160" width="765" height="710" as="geometry" />
         </mxCell>
@@ -208,9 +211,6 @@
         </mxCell>
         <mxCell id="yCfuCtmDYK_FV-YPYzmW-28" value="区县批次上报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="2041" y="350" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yCfuCtmDYK_FV-YPYzmW-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=16;" parent="1" source="yCfuCtmDYK_FV-YPYzmW-30" target="yCfuCtmDYK_FV-YPYzmW-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="yCfuCtmDYK_FV-YPYzmW-30" target="vz7TybBeLEqPIu0Ode82-76">
           <mxGeometry relative="1" as="geometry" />
@@ -493,6 +493,9 @@
         </mxCell>
         <mxCell id="vz7TybBeLEqPIu0Ode82-101" value="biz_family_send_memberinfo 接口待发送表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="288" y="290" width="250" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vz7TybBeLEqPIu0Ode82-106" value="数据回写" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="205" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
